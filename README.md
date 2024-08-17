@@ -1,15 +1,4 @@
-<h5 align="left">Olá, me chamo Fabrício.<br>Sou profissional da área de dados e pretendo compartilhar aqui meus trabalhos e projetos.</h5>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/-fcosta" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="fabriciocostta2020@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="20" alt="gmail logo"  />
-  </a>
-</div>
+<p align="left">Olá, me chamo Fabrício.<br>Sou profissional da área de dados e pretendo compartilhar aqui meus trabalhos e projetos.</p>
 
 ###
 
